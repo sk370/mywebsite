@@ -101,3 +101,10 @@ hr{
 	top: 5px;
 	right: 5px;
 }
+.imgPos{
+	height: 68px;
+	line-height: 68px;
+	background-color: #ccc;
+	margin: 1px;
+	box-sizing: border-box;
+}
